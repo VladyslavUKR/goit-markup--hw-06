@@ -932,8 +932,8 @@ span {
 
 .modal-form-check:checked + .modal-form-check-desc::before {
   background-color: var(--accent-page-color);
-  /* border: transparent; */
-  background-image: url(/images/check-mark.svg);
+  border: transparent;
+  background-image: url(../images/check-mark.svg);
   background-position: center;
   background-repeat: no-repeat;
 }
