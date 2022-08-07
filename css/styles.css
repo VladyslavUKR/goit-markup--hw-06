@@ -634,9 +634,6 @@ span {
   color: var(--accent-page-color);
 }
 
-/* .media-footer {
-  margin-left: 70px;
-} */
 .join-list {
   display: flex;
   align-items: center;
@@ -783,7 +780,6 @@ span {
   left: 50%;
   transform: translate(-50%, -50%);
   width: 528px;
-  height: 581px;
 
   padding: 40px;
 
