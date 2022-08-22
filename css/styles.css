@@ -67,11 +67,11 @@ body {
   text-decoration: none;
 }
 /* ================HEADER================ */
-.header {
-  /* padding: 24px 0; */
+.header_boder {
   border-bottom: 1px solid #ececec;
 }
-.page-header-container {
+
+.header_container {
   display: flex;
   align-items: center;
 }
